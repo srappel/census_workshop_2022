@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 # Census and ACS Data for GIS
-### [UWM GIS Day - Spring 2021](https://uwm.edu/gis-council/gisday/gisday-program/)  
+### [UWM GIS Day - Spring 2022](https://uwm.edu/gis-council/gisday/gisday-program/)  
   
 ____
 
@@ -26,7 +26,7 @@ This workshop will provide an introduction to the US Census and American Communi
 <img src='https://uwm.edu/libraries/wp-content/uploads/sites/59/2018/12/appel.jpg' width='250' alt='Photo of the presenter, Stephen Appel'>
 
 [Stephen Appel](https://srappel.github.io) <a href='https://github.com/srappel' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>    
-Geospatial Information Specialist  
+Geospatial Information Librarian  
 American Geographical Society Library <br>
 University of Wisconsin-Milwaukee Libraries 
 [srappel@uwm.edu](mailto:srappel@uwm.edu)  

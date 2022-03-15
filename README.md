@@ -1,8 +1,8 @@
-# Website for Census workshop at UWM Spring 2021 GIS Day
+# Website for Census workshop at UWM Spring 2022 GIS Days
 
 This is the repository for the website used in the Census Data and Tools for GIS workshop at the Spring 2021 GIS Day event at UW-Milwaukee.
 
-If you are a workshop participant who ended up here by mistake, please [go back to the workshop website](srappel.github.io/census_workshop_2021).
+If you are a workshop participant who ended up here by mistake, please [go back to the workshop website](srappel.github.io/census_workshop_2022).
 
 This website was created using a template. The template information is below:
 
