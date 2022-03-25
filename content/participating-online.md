@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Participating Online
-nav_order: 4
+nav_order: 3
 ---
 # Participating online
 Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other.    
