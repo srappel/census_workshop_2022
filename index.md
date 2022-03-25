@@ -62,14 +62,9 @@ _Actual schedule may vary depending on group needs_
 
 ### Workshop Recording
 
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2370711/sp/237071100/embedIframeJs/uiconf_id/42909951/partner_id/2370711?iframeembed=true&playerId=kaltura_player&entry_id=1_1ojh6lu6&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_511vkl4x" width="608" height="342" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+Workshop recording will be available after the event!
 
 
 ### Workshop Slides
 
 Slides will be available on the day of the workshop.
-<br>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCNnv2e423YIixlGSljbE3-wj2ix7h9OLiX69G5iIH6fBjW22ddpVcW283P9peM1nnNCFYS6eJphkj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-[Download Slides](https://docs.google.com/presentation/d/172igvCbB1KsYAMzWgjY75MnsAFiRoNjY9fT064XOAOM/export/pdf){: .btn .btn-blue }
