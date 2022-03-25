@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a workshop for the 2021 virtual GIS Day event at UW-Milwaukee. The workshop covers the
   basics of US Census and American Community Survey, NHGIS, and basic methods for using tabular
   and geospatial census data in Desktop GIS.
-baseurl: "/census_workshop_2021" # the subpath of your site, e.g. /blog
+baseurl: "/census_workshop_2022" # the subpath of your site, e.g. /blog
 url: "https://srappel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  srappel
@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-footer_content: <a href="https://github.com/srappel/census_workshop_2021" target="_blank">View this workshop on GitHub</a>
+footer_content: <a href="https://github.com/srappel/census_workshop_2022" target="_blank">View this workshop on GitHub</a>
 
 # Exclude from processing.
 # The following items will not be processed, by default.
