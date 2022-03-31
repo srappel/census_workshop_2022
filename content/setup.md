@@ -16,7 +16,7 @@ A camera and microphone are not required, but are encouraged for participation a
 Please prepare to mute your microphone and unmute only when you would like to speak.
 {: .step}
 
-It's strongly recommended to use two monitors or two devices, one to follow along and one to view the zoom webinar.
+This workshop has hands-on components. It's strongly recommended to use two monitors or two devices, one to follow along and one to view the zoom webinar.
 {: .step}
 <br>
 
@@ -32,7 +32,7 @@ UWM Faculty or Staff should [follow this link to the Faculty/Staff Software page
 and find the installation instructions for ArcGIS Pro.
 {: .step}
 
-Faculty and Staff can access ArcGIS Pro only on university-owned workstations under our site license with ESRI.
+Faculty and Staff can access ArcGIS Desktop only on university-owned workstations under our site license with ESRI. Because of how ArcGIS Pro is licensed, it is available for UWM Faculty, Staff, and Students on personal computers.
 {: .warn}
 
 Attendees without UWM credentials should consider a [free trial](https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial)
