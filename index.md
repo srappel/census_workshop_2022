@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 # Census and ACS Data for GIS
-### [UWM GIS Day - Spring 2022](https://uwm.edu/gis-council/gisday/gisday-program/)  
+### [UWM GIS Days - April 6-8, 2022](https://uwm.edu/gis-council/gisday/gisday-program/)  
   
 ____
 
@@ -19,7 +19,7 @@ This workshop will provide an introduction to the US Census and American Communi
 - Set up an account at NHGIS.org
 {: .prereq}
 
-[Click here to view the full setup instructions.](content/setup) **Please complete setup before the workshop so we can make the most of our limited timed together.**
+**[Click here to view the full setup instructions.](content/setup) Please complete setup before the workshop so we can make the most of our limited timed together.**
 
 ### Presenter
 
@@ -38,11 +38,9 @@ University of Wisconsin-Milwaukee Libraries
 
 - Experiment with data discovery and access using [NHGIS](https://www.nhgis.org)
 
-- Bring tabular and geospatial Census/ACS data into GIS
+- Bring tabular and geospatial Census/ACS data into Desktop GIS
 
 - Discuss special considerations for GIS analysis with Census/ACS data
-
-- Get an update on the latest tools and trends
 
 ### Schedule
 

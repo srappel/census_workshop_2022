@@ -9,7 +9,7 @@ nav_order: 10
 The tutorial "Using NHGIS Data: A Guide for the Modern Map-Minded Panther" was originally written at the AGSL by [Ben Schroeder](https://benschroeder.com/),
 updated for ArcGIS Pro by [Bob Cowling](https://rcowling.github.io/), and edited for this workshop by the presenter.
 
-2021 is my 5th time doing this workshop, thank you to all the previous participants and their generous feedback.
+2022 is my 6th time doing this workshop, thank you to all the previous participants and their generous feedback.
 
 Thank you to everyone involved in GIS Day planning including those who helped me organize the student project competition.
 
