@@ -48,10 +48,10 @@ University of Wisconsin-Milwaukee Libraries
 | --- | ---
 | 0:00 | Introductions
 | 0:03 | [Land acknowledgement](content/land-acknowledgement)
-| 0:05 | Who are we? (Interactive Activity)
-| 0:15 | Census and ACS: Past and Present (Presentation)
-| 0:45| A tutorial for the modern map-minded panther (Step-by-step)
-| 1:10 | Questions and Wrap-Up
+| 0:05 | [Who are we?](content/survey.md) (Interactive Activity)
+| 0:15 | [Census and ACS: Past and Present](#workshop-slides) (Presentation)
+| 0:45 | [A tutorial for the modern map-minded panther](content/tutorial.md) (Step-by-step)
+| 1:20 | Questions and Wrap-Up
 | 1:30 | End
 
 
