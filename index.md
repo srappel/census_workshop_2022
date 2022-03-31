@@ -52,10 +52,9 @@ University of Wisconsin-Milwaukee Libraries
 | 0:03 | [Land acknowledgement](content/land-acknowledgement)
 | 0:05 | Who are we? (Interactive Activity)
 | 0:15 | Census and ACS: Past and Present (Presentation)
-| 0:35 | A tutorial for the modern map-minded panther (Step-by-step)
-| 1:05 | Tools and Trends (Presentation)
-| 1:10 | Questions
-| 1:25 | Wrap-up (Discussion)
+| 0:45| A tutorial for the modern map-minded panther (Step-by-step)
+| 1:10 | Questions and Wrap-Up
+| 1:30 | End
 
 
 _Actual schedule may vary depending on group needs_
@@ -66,5 +65,8 @@ Workshop recording will be available after the event!
 
 
 ### Workshop Slides
+<br>
 
-Slides will be available on the day of the workshop.
+<iframe src="https://docs.google.com/presentation/d/18XQI6sHZK7y8Traw-rWPqFg-AWct8HLFJxg4snVUVps/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[Download Slides](https://docs.google.com/presentation/d/18XQI6sHZK7y8Traw-rWPqFg-AWct8HLFJxg4snVUVps/export/pdf){: .btn .btn-blue }
