@@ -37,3 +37,8 @@ American Indians are an historically undercounted group in the Census:
 > more than double the undercount rate of the next closest population group.  
 
 [(source and more information)](https://www.ncai.org/policy-issues/economic-development-commerce/census)
+
+If you want to learn more about the 2020 census and Native American communities, listen to this podcast from WNYC's Snap Judgement:
+https://snapjudgment.org/episode/the-census-powwow/
+
+> Cheyenne Brady knew next to nothing about the US census when she was given the job of counting everyone on her reservation. Writer Julian Brave Noisecat follows her through the ups and downs of the 2020 census, culminating in the first-ever Census Powwow.
